@@ -1,8 +1,8 @@
 | | Population | Population % |
 | --- | --- | --- |
-| Complete | 203106631 | 63.2% |
-| State | 46750056 | 14.5% |
-| None | 71562133 | 22.3% |
+| Complete | 206752367 | 64.3% |
+| State | 46654270 | 14.5% |
+| None | 68012183 | 21.2% |
 
 | Name | Population | GEOID |
 | --- | --- | --- |
@@ -13,17 +13,14 @@
 | Gwinnett County, Georgia | 895823 | 13135 |
 | Pierce County, Washington | 843954 | 53053 |
 | Montgomery County, Pennsylvania | 819264 | 42091 |
-| Oklahoma County, Oklahoma | 776864 | 40109 |
 | Cobb County, Georgia | 741334 | 13067 |
 | DeKalb County, Georgia | 734871 | 13089 |
 | Fort Bend County, Texas | 716087 | 48157 |
 | Delaware County, Pennsylvania | 563894 | 42045 |
 | Sedgwick County, Kansas | 511574 | 20173 |
 | Onondaga County, New York | 468463 | 36067 |
-| Tulare County, California | 459863 | 06107 |
 | Clark County, Washington | 459495 | 53011 |
 | Knox County, Tennessee | 451324 | 47093 |
-| York County, Pennsylvania | 442867 | 42133 |
 | Cameron County, Texas | 422156 | 48061 |
 | Mobile County, Alabama | 415395 | 01097 |
 | Richland County, South Carolina | 407051 | 45079 |
@@ -31,8 +28,6 @@
 | Orange County, New York | 377647 | 36071 |
 | Nueces County, Texas | 359715 | 48355 |
 | Westmoreland County, Pennsylvania | 357956 | 42129 |
-| Hamilton County, Tennessee | 354098 | 47065 |
-| Madison County, Alabama | 353089 | 01089 |
 | Bell County, Texas | 334941 | 48027 |
 | Rockland County, New York | 326037 | 36087 |
 | Boulder County, Colorado | 319372 | 08013 |
@@ -88,19 +83,15 @@
 | Ouachita Parish, Louisiana | 156761 | 22073 |
 | Berrien County, Michigan | 154636 | 26021 |
 | Schenectady County, New York | 154604 | 36093 |
-| Paulding County, Georgia | 152238 | 13223 |
 | Guadalupe County, Texas | 151249 | 48187 |
 | Houston County, Georgia | 150033 | 13153 |
 | Monroe County, Michigan | 149568 | 26115 |
-| Rankin County, Mississippi | 149039 | 28121 |
 | Santa Fe County, New Mexico | 148686 | 35049 |
 | Rock Island County, Illinois | 146133 | 17161 |
 | Schuylkill County, Pennsylvania | 144590 | 42107 |
 | Columbia County, Georgia | 144052 | 13073 |
-| Jackson County, Mississippi | 141425 | 28059 |
 | Douglas County, Georgia | 140733 | 13097 |
 | Sandoval County, New Mexico | 139394 | 35043 |
-| Coconino County, Arizona | 139097 | 04005 |
 | Coweta County, Georgia | 138427 | 13077 |
 | Lebanon County, Pennsylvania | 137067 | 42075 |
 | Taylor County, Texas | 136051 | 48441 |
@@ -150,7 +141,6 @@
 | Whitfield County, Georgia | 104216 | 13313 |
 | Houston County, Alabama | 104173 | 01069 |
 | Bradley County, Tennessee | 104091 | 47011 |
-| Etowah County, Alabama | 103057 | 01055 |
 | Woodbury County, Iowa | 102782 | 19193 |
 | Bartow County, Georgia | 102747 | 13015 |
 | Franklin County, Missouri | 102426 | 29071 |
@@ -192,7 +182,6 @@
 | Twin Falls County, Idaho | 82375 | 16083 |
 | Cullman County, Alabama | 82005 | 01043 |
 | Clinton County, New York | 81251 | 36019 |
-| Talladega County, Alabama | 80862 | 01121 |
 | Payne County, Oklahoma | 80850 | 40119 |
 | Henderson County, Texas | 79545 | 48213 |
 | Polk County, Oregon | 79391 | 41053 |
@@ -222,7 +211,6 @@
 | Lonoke County, Arkansas | 71645 | 05085 |
 | Jefferson County, Arkansas | 71565 | 05069 |
 | Apache County, Arizona | 71474 | 04001 |
-| Ward County, North Dakota | 71275 | 38101 |
 | Lea County, New Mexico | 71180 | 35025 |
 | DeKalb County, Alabama | 71130 | 01049 |
 | Grays Harbor County, Washington | 71122 | 53027 |
@@ -258,7 +246,6 @@
 | Hamblen County, Tennessee | 63402 | 47063 |
 | Pope County, Arkansas | 63390 | 05115 |
 | Jackson County, Georgia | 63360 | 13157 |
-| Tehama County, California | 63308 | 06103 |
 | Coos County, Oregon | 63121 | 41011 |
 | Herkimer County, New York | 63100 | 36043 |
 | Wise County, Texas | 62953 | 48497 |
@@ -371,7 +358,6 @@
 | Bryan County, Oklahoma | 44884 | 40013 |
 | Callaway County, Missouri | 44834 | 29027 |
 | Phelps County, Missouri | 44794 | 29161 |
-| Sweetwater County, Wyoming | 44626 | 56037 |
 | Pittsburg County, Oklahoma | 44610 | 40121 |
 | Stephens County, Oklahoma | 44581 | 40137 |
 | Jefferson County, Pennsylvania | 44430 | 42065 |
@@ -479,8 +465,8 @@
 | Weakley County, Tennessee | 33960 | 47183 |
 | Monroe County, Illinois | 33879 | 17133 |
 | Clarendon County, South Carolina | 33775 | 45027 |
-| Evangeline Parish, Louisiana | 33743 | 22039 |
 | Lincoln County, Tennessee | 33743 | 47103 |
+| Evangeline Parish, Louisiana | 33743 | 22039 |
 | Bureau County, Illinois | 33587 | 17011 |
 | Warren County, Missouri | 33513 | 29219 |
 | Hot Spring County, Arkansas | 33426 | 05059 |
@@ -532,7 +518,6 @@
 | Pickens County, Georgia | 30309 | 13227 |
 | Summit County, Colorado | 30257 | 08117 |
 | Marion County, Alabama | 30168 | 01093 |
-| Sheridan County, Wyoming | 30009 | 56033 |
 | Stoddard County, Missouri | 29862 | 29207 |
 | Boyle County, Kentucky | 29809 | 21021 |
 | Custer County, Oklahoma | 29744 | 40039 |
@@ -540,7 +525,6 @@
 | Neshoba County, Mississippi | 29463 | 28099 |
 | Gilmer County, Georgia | 29400 | 13123 |
 | Caddo County, Oklahoma | 29343 | 40015 |
-| Park County, Wyoming | 29228 | 56029 |
 | Pine County, Minnesota | 29069 | 27115 |
 | Ellis County, Kansas | 29029 | 20051 |
 | Giles County, Tennessee | 28946 | 47055 |
@@ -678,8 +662,8 @@
 | Crisp County, Georgia | 22881 | 13081 |
 | Grainger County, Tennessee | 22846 | 47057 |
 | Jerome County, Idaho | 22814 | 16053 |
-| Nodaway County, Missouri | 22810 | 29147 |
 | Ray County, Missouri | 22810 | 29177 |
+| Nodaway County, Missouri | 22810 | 29147 |
 | Houston County, Texas | 22785 | 48225 |
 | Leake County, Mississippi | 22763 | 28079 |
 | Fairfield County, South Carolina | 22747 | 45039 |
@@ -729,7 +713,6 @@
 | Tyler County, Texas | 21347 | 48457 |
 | Wabasha County, Minnesota | 21239 | 27157 |
 | Meriwether County, Georgia | 21190 | 13199 |
-| Stutsman County, North Dakota | 21103 | 38093 |
 | Klickitat County, Washington | 21026 | 53039 |
 | Conway County, Arkansas | 21019 | 05029 |
 | Saunders County, Nebraska | 21016 | 31155 |
@@ -739,7 +722,6 @@
 | Pickens County, Alabama | 20864 | 01107 |
 | Ashley County, Arkansas | 20838 | 05003 |
 | Vernon County, Missouri | 20826 | 29217 |
-| Uinta County, Wyoming | 20822 | 56041 |
 | Washington County, Georgia | 20816 | 13303 |
 | Labette County, Kansas | 20803 | 20099 |
 | DeWitt County, Texas | 20797 | 48123 |
@@ -794,7 +776,6 @@
 | Drew County, Arkansas | 18778 | 05043 |
 | Houston County, Minnesota | 18773 | 27055 |
 | Harrison County, Kentucky | 18763 | 21097 |
-| Lincoln County, Wyoming | 18722 | 56023 |
 | Benton County, Missouri | 18670 | 29015 |
 | Chaffee County, Colorado | 18658 | 08015 |
 | Montour County, Pennsylvania | 18557 | 42093 |
@@ -803,7 +784,6 @@
 | Banks County, Georgia | 18495 | 13011 |
 | Hart County, Kentucky | 18454 | 21099 |
 | Arkansas County, Arkansas | 18433 | 05001 |
-| Plumas County, California | 18409 | 06063 |
 | Pike County, Missouri | 18348 | 29163 |
 | Otero County, Colorado | 18343 | 08089 |
 | Holmes County, Mississippi | 18340 | 28051 |
@@ -893,8 +873,8 @@
 | Pike County, Illinois | 15989 | 17149 |
 | Moniteau County, Missouri | 15963 | 29135 |
 | Floyd County, Iowa | 15960 | 19067 |
-| Mercer County, Illinois | 15858 | 17131 |
 | Jackson Parish, Louisiana | 15858 | 22049 |
+| Mercer County, Illinois | 15858 | 17131 |
 | Kanabec County, Minnesota | 15837 | 27065 |
 | Casey County, Kentucky | 15808 | 21045 |
 | Madison County, Arkansas | 15767 | 05087 |
@@ -942,7 +922,6 @@
 | White County, Illinois | 14327 | 17193 |
 | Washington County, Illinois | 14270 | 17189 |
 | Larue County, Kentucky | 14241 | 21123 |
-| Converse County, Wyoming | 14236 | 56009 |
 | Trigg County, Kentucky | 14233 | 21221 |
 | Screven County, Georgia | 14162 | 13251 |
 | Las Animas County, Colorado | 14058 | 08071 |
@@ -953,8 +932,8 @@
 | Crenshaw County, Alabama | 13963 | 01041 |
 | Murray County, Oklahoma | 13936 | 40099 |
 | Cedar County, Missouri | 13934 | 29039 |
-| Allamakee County, Iowa | 13886 | 19005 |
 | Lamar County, Alabama | 13886 | 01075 |
+| Allamakee County, Iowa | 13886 | 19005 |
 | Cannon County, Tennessee | 13840 | 47015 |
 | Lincoln County, Arkansas | 13820 | 05079 |
 | Ripley County, Missouri | 13802 | 29181 |
@@ -1021,7 +1000,6 @@
 | Okfuskee County, Oklahoma | 12181 | 40107 |
 | Chickasaw County, Iowa | 12097 | 19037 |
 | Washington County, Kentucky | 12063 | 21229 |
-| Big Horn County, Wyoming | 12022 | 56003 |
 | Edmonson County, Kentucky | 12007 | 21061 |
 | Desha County, Arkansas | 11965 | 05041 |
 | Prowers County, Colorado | 11954 | 08099 |
@@ -1107,7 +1085,6 @@
 | Kemper County, Mississippi | 9969 | 28069 |
 | Marshall County, Kansas | 9936 | 20117 |
 | Metcalfe County, Kentucky | 9909 | 21169 |
-| Sublette County, Wyoming | 9899 | 56035 |
 | Webster County, Mississippi | 9899 | 28155 |
 | Love County, Oklahoma | 9870 | 40085 |
 | Wilkes County, Georgia | 9867 | 13317 |
@@ -1158,9 +1135,8 @@
 | Wilcox County, Georgia | 8857 | 13315 |
 | Wilson County, Kansas | 8856 | 20205 |
 | Mercer County, North Dakota | 8853 | 38057 |
-| Platte County, Wyoming | 8812 | 56031 |
-| Davis County, Iowa | 8769 | 19051 |
 | Trimble County, Kentucky | 8769 | 21223 |
+| Davis County, Iowa | 8769 | 19051 |
 | Marion County, Georgia | 8761 | 13197 |
 | Somervell County, Texas | 8739 | 48425 |
 | Archer County, Texas | 8715 | 48009 |
@@ -1168,7 +1144,6 @@
 | Humphreys County, Mississippi | 8669 | 28053 |
 | Gallatin County, Kentucky | 8636 | 21077 |
 | Harrison County, Missouri | 8615 | 29081 |
-| Johnson County, Wyoming | 8585 | 56019 |
 | Monroe County, Missouri | 8583 | 29137 |
 | Baraga County, Michigan | 8575 | 26013 |
 | Nevada County, Arkansas | 8558 | 05099 |
@@ -1182,12 +1157,10 @@
 | Clay County, Kansas | 8347 | 20027 |
 | Coleman County, Texas | 8338 | 48083 |
 | Taylor County, Georgia | 8330 | 13269 |
-| Washakie County, Wyoming | 8328 | 56043 |
 | Bracken County, Kentucky | 8321 | 21023 |
 | Cleveland County, Arkansas | 8311 | 05025 |
 | Lyon County, Kentucky | 8306 | 21143 |
 | Choctaw County, Mississippi | 8299 | 28019 |
-| Prairie County, Arkansas | 8291 | 05117 |
 | Shannon County, Missouri | 8258 | 29203 |
 | Daviess County, Missouri | 8253 | 29061 |
 | Oscoda County, Michigan | 8251 | 26135 |
@@ -1204,8 +1177,8 @@
 | Perry County, Tennessee | 7929 | 47135 |
 | Newton County, Arkansas | 7913 | 05101 |
 | Searcy County, Arkansas | 7869 | 05129 |
-| Clay County, Tennessee | 7771 | 47027 |
 | Major County, Oklahoma | 7771 | 40093 |
+| Clay County, Tennessee | 7771 | 47027 |
 | Kit Carson County, Colorado | 7758 | 08063 |
 | Northwest Arctic Borough, Alaska | 7752 | 02188 |
 | Franklin County, Mississippi | 7743 | 28037 |
@@ -1213,8 +1186,8 @@
 | Grant County, Kansas | 7733 | 20067 |
 | Lincoln County, Georgia | 7673 | 13181 |
 | Castro County, Texas | 7656 | 48069 |
-| Elliott County, Kentucky | 7648 | 21063 |
 | Power County, Idaho | 7648 | 16077 |
+| Elliott County, Kentucky | 7648 | 21063 |
 | Dallas County, Arkansas | 7604 | 05039 |
 | Dade County, Missouri | 7595 | 29057 |
 | Chariton County, Missouri | 7589 | 29041 |
@@ -1232,7 +1205,6 @@
 | Refugio County, Texas | 7289 | 48391 |
 | Jefferson County, Nebraska | 7263 | 31095 |
 | Wolfe County, Kentucky | 7259 | 21237 |
-| Weston County, Wyoming | 7234 | 56045 |
 | Brooks County, Texas | 7230 | 48047 |
 | Bailey County, Texas | 7210 | 48017 |
 | Grant County, Oregon | 7185 | 41023 |
@@ -1428,7 +1400,6 @@
 | Graham County, Kansas | 2591 | 20065 |
 | Renville County, North Dakota | 2571 | 38075 |
 | Kiowa County, Kansas | 2564 | 20097 |
-| Niobrara County, Wyoming | 2542 | 56027 |
 | Haines Borough, Alaska | 2534 | 02100 |
 | Sheridan County, Kansas | 2512 | 20179 |
 | Rawlins County, Kansas | 2506 | 20153 |
